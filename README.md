@@ -20,7 +20,7 @@ To "modify" means to change or copy this program without proper authorization fr
   "TOS" refers to this document (Terms of Service).
 
 ## *2. User Agreement*
-  By using this program, you agree that you are above the age of 13, are currently logged into your *GitHub* account, and have read and fully understand these Terms and Conditions. You also agree that you will not copy, sell, or modify the program with out specfic premission from me. However, I give you premission to copy, duplicate, and build upon this program within The Creative Commons Copyright Law AND if you give appropriate citations/credit to the owners ([@math-gizmos](https://github.com/math-gizmos) and [@3kho](https://github.com/3kh0)) 
+  By using this program, you agree that you are above the age of 13, are currently logged into your *GitHub* account, and have read and fully understand these Terms and Conditions. You also agree that you will not copy, sell, or modify the program with out specfic premission from me. However, I give you premission to copy, duplicate, and build upon this program within The Creative Commons Copyright Law AND if you give appropriate citations/credit to the owners ([@math-gizmos](https://github.com/math-gizmos) and [@Bubbadudez](https://github.com/Bubbadudez)) 
   
 ##  *3. Termination*
   If you violate the TOS, I reserve the right to suspend or terminate your access to the program through local your *GitHub*  account or through your computer IP address. 
