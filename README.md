@@ -1,4 +1,4 @@
-# **Play Drift Boss unblocked at school!**
+# **Play Drift Boss unblocked at school**
 
 #  *Terms of Service* 
 ###### Last updated on  *January 28, 2022 13:35 EST*
