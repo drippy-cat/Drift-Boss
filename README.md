@@ -7,9 +7,9 @@
 The content of this program is for your general information and use only. It is subject to change without notice. You must be at least 13 years of age to use this program. If you are not at least 13 years of age, do not use this program. By playing this game and running this program, you confirm that you have read and fully understood these Terms & Conditions and the Privacy Policy.
 
 ##  *1. Definitions* 
-  "I" or "me" refers to the creator/owner of this [repository](https://math-gizmos.github.io/Drift-Boss/) (math-gizmos).
+  "I" or "me" refers to the creator/owner of this [repository](https://drippy-cat.github.io/Drift-Boss/) (drippy-cat).
 
-  "The program" refers to this [repository](https://math-gizmos.github.io/Drift-Boss/).
+  "The program" refers to this [repository](https://drippy-cat.github.io/Drift-Boss/).
 
   "Copyright" refers to the laws that protect original media/content.
 
@@ -20,7 +20,7 @@ To "modify" means to change or copy this program without proper authorization fr
   "TOS" refers to this document (Terms of Service).
 
 ## *2. User Agreement*
-  By using this program, you agree that you are above the age of 13, are currently logged into your *GitHub* account, and have read and fully understand these Terms and Conditions. You also agree that you will not copy, sell, or modify the program with out specfic premission from me. However, I give you premission to copy, duplicate, and build upon this program within The Creative Commons Copyright Law AND if you give appropriate citations/credit to the owners ([@math-gizmos](https://github.com/math-gizmos) and [@Bubbadudez](https://github.com/Bubbadudez)) 
+  By using this program, you agree that you are above the age of 13, are currently logged into your *GitHub* account, and have read and fully understand these Terms and Conditions. You also agree that you will not copy, sell, or modify the program with out specfic premission from me. However, I give you premission to copy, duplicate, and build upon this program within The Creative Commons Copyright Law AND if you give appropriate citations/credit to the owners ([@drippy-cat](https://github.com/drippy-cat) and [@Bubbadudez](https://github.com/Bubbadudez)) 
   
 ##  *3. Termination*
   If you violate the TOS, I reserve the right to suspend or terminate your access to the program through local your *GitHub*  account or through your computer IP address. 
@@ -34,7 +34,7 @@ To "modify" means to change or copy this program without proper authorization fr
 
 
 # *Privacy Policy*
-###### Last updated on  *January 28, 2022 9:33 EST*
+###### Last updated on  *January 10, 2023 4:33 EST*
 
 Thank you for playing Drift Boss! We wrote this policy to help you understand what information we collect, how we use it, and what choices you have (and also because it's required by law). Because we’re an internet company, some of the concepts below are a little technical, but we’ve tried our best to explain things in a simple and clear way. We welcome your questions and comments on this policy.
 
